@@ -1,0 +1,11 @@
+
+    <rss version="2.0">
+        <title>Hw6 Sample RSS Feed</title>
+        <description>Sample RSS feed for CIT594 news aggregator</description>
+        <link>http://localhost:8090/page1.html</link>
+        <link>http://localhost:8090/page2.html</link>
+        <link>http://localhost:8090/page3.html</link>
+        <link>http://localhost:8090/page4.html</link>
+        <link>http://localhost:8090/page5.html</link>
+
+</rss>
