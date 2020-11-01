@@ -1,10 +1,10 @@
-# Aggregator
-* [Depth First Search](#depth-first-search)
+# Aggregator Project
+* [Aggregator](#depth-first-search)
 
-## Depth First Search
+## Aggregator
 The user can use mouse to locate a center by click and set the radius by drag, then the app shall find the
 <!--![Alt Text](https://github.com/cchun319/GUI_fun/blob/main/circle.gif)-->
-<img src="https://github.com/cchun319/DFS_BFS/blob/master/DFS.gif" width="300" height="300"/>
+<img src="https://github.com/cchun319/Aggregator/blob/master/ag.gif" width="620" height="400"/>
 
 ## USE
 
